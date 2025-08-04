@@ -19,6 +19,7 @@ This project aims to analyze and predict global video game sales using machine l
 - Feature analysis
 - Training regression models to predict Global_Sales
 - Evaluating model performance and interpreting results
+  
 This analysis helps uncover insights into what makes a video game successful in terms of worldwide sales.
 
 ---
