@@ -1,6 +1,16 @@
 # 🎮 Video Games Sales Prediction ML
 
-# 📌 **Project Overview**
+---
+
+## 🎓 Program Context
+
+This project was developed as the **Final Project** for the **Machine Learning Track** as part of the **NTI x ITIDA Summer Training Program – 2025**.
+
+> 👨‍💻 Developed by: **Raneem Ahmed Refaat**
+
+---
+
+## 📌 **Project Overview**
 
 This project aims to analyze and predict global video game sales using machine learning models. By exploring historical data on game performance, platform trends, genre popularity, and publisher impact, we aim to identify key factors that influence global sales volume. This project involves:
 
